@@ -44,18 +44,18 @@
 
 <p align="center">
   <a href="https://github.com/HMatheo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HMatheo&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HMatheo&theme=dracula&border=7F3FBF&background=0D1117" alt="Mathéo's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/HMatheo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HMatheo&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HMatheo&theme=dracula" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/HMatheo"><img alt="Mathéo Github Stats" src="https://github-readme-stats-orpin-one-42.vercel.app/api?username=HMatheo&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/HMatheo"><img alt="Mathéo Github Stats" src="https://github-readme-stats-orpin-one-42.vercel.app/api?username=HMatheo&show_icons=true&count_private=true&theme=dracula&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/HMatheo"><img alt="Mathéo Top Languages" src="https://github-readme-stats-orpin-one-42.vercel.app/api/top-langs/?username=HMatheo&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
