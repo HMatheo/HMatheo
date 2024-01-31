@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Mathéo+Hersan">「 Google Me 」</a>
     <br>
     「 I am a computer science student at <b>IUT Clermont Auvergne.</b> 」
     <br>
