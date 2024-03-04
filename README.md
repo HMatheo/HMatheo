@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://github.com/HMatheo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HMatheo&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HMatheo&theme=radical" alt="Mathéo's GitHub Contribution"/>
   </a>
 </p>
 
