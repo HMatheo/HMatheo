@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
- <a href="https://HMatheo.com" target="blank">
+ <a href="https://matheo-hersan.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="HMatheo" />
  </a>
  <a href="https://linkedin.com/in/mathéo-hersan" target="_blank">
